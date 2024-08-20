@@ -44,7 +44,6 @@ public class modul3 extends javax.swing.JFrame {
 
         jLabel2.setText("PASSWORD");
 
-        ePassword.setText("jPasswordField1");
         ePassword.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ePasswordActionPerformed(evt);
